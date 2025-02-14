@@ -1,7 +1,3 @@
-Here’s the revised version of the README for your GitHub repository, now including the system prompt part you requested:
-
----
-
 # Dumbbell Chart Creator
 
 Transform your data into beautiful, easy-to-understand visualizations with just a few clicks! 📊✨
