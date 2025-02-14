@@ -6,6 +6,13 @@ Transform your data into beautiful, easy-to-understand visualizations with just 
 
 This project was inspired by reading *[The Anthropic Economic Index](https://www.anthropic.com/news/the-anthropic-economic-index?fbclid=IwY2xjawIX8bpleHRuA2FlbQIxMAABHQqkvz6dG3KFNKnUPstX86oQLmV7MXL0GwvJOarKwBGP57oR2QlEh0UYkw_aem_46lEW_K-Wr5Gp5R3uERrAQ)*, which led to the idea of using AI to create a Dumbbell Chart for data comparison. After experimenting, I found that AI could help easily generate these charts with satisfactory results. I wanted to share this tool with everyone, so you can also create visually appealing data comparisons!
 
+### Reference Chart
+![image](https://github.com/user-attachments/assets/405231c9-dd18-4393-bd79-5ae588c3a93f)
+
+### Result of the tools
+![image](https://github.com/user-attachments/assets/e90d3641-4240-487e-a231-0bb975a4e022)
+
+
 ## How It Works
 
 Creating a Dumbbell Chart with this tool is simple:
@@ -240,3 +247,4 @@ plt.subplots_adjust(top=0.9, bottom=0.1, left=0.35, right=0.9)
 plt.suptitle("AI usage by job type", fontsize=20, fontweight='bold')
 plt.show()
 ```
+
