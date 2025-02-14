@@ -9,7 +9,7 @@ This project was inspired by reading *[The Anthropic Economic Index](https://www
 ### Reference Chart
 ![image](https://github.com/user-attachments/assets/405231c9-dd18-4393-bd79-5ae588c3a93f)
 
-### Result of the tools
+### Result of this AI tools
 ![image](https://github.com/user-attachments/assets/e90d3641-4240-487e-a231-0bb975a4e022)
 
 
