@@ -142,6 +142,6 @@ legend.get_frame().set_linewidth(2)
 
 plt.gca().invert_yaxis()
 
-plt.subplots_adjust(top=0.9, bottom=0.1, left=0.35, right=0.9)
+plt.subplots_adjust(top=0.9, bottom=0.1, left=0.4, right=0.9)
 plt.suptitle("AI usage by job type", fontsize=20, fontweight='bold')
 plt.show()
