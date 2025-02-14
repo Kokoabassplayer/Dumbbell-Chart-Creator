@@ -1,3 +1,7 @@
+Here’s the revised version of the README for your GitHub repository, now including the system prompt part you requested:
+
+---
+
 # Dumbbell Chart Creator
 
 Transform your data into beautiful, easy-to-understand visualizations with just a few clicks! 📊✨
@@ -23,8 +27,8 @@ This tool will help you analyze data in a more intuitive and visually attractive
 
 ---
 
-``` System Prompt
-
+## System Prompt
+```txt
 **Generate a dumbbell chart** comparing two data series across multiple categories using the provided sample code and your data inputs.
 
 ---
@@ -73,18 +77,14 @@ This tool will help you analyze data in a more intuitive and visually attractive
 ---
 
 ### **Example Input (Percentage Data)**  
-```python
 categories = ["Category A", "Category B", "Category C"]
 series_1 = [20, 15, 25]  # Percentage (%)
 series_2 = [10, 25, 20]  # Percentage (%)
-```
 
 ### **Example Input (Actual Number Data)**  
-```python
 categories = ["Category D", "Category E", "Category F"]
 series_1 = [500, 300, 800]  # Actual Numbers
 series_2 = [400, 500, 600]  # Actual Numbers
-```
 
 ---
 
@@ -96,7 +96,6 @@ series_2 = [400, 500, 600]  # Actual Numbers
 ---
 
 ### **Sample Code**  
-```python
 import matplotlib.pyplot as plt
 
 # Sample data for the chart
