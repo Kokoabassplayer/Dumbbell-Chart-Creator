@@ -4,7 +4,7 @@ Transform your data into beautiful, easy-to-understand visualizations with just 
 
 ## Inspiration
 
-This project was inspired by reading *The Anthropic Economic Index*, which led to the idea of using AI to create a Dumbbell Chart for data comparison. After experimenting, I found that AI could help easily generate these charts with satisfactory results. I wanted to share this tool with everyone, so you can also create visually appealing data comparisons!
+This project was inspired by reading *[The Anthropic Economic Index](https://www.anthropic.com/news/the-anthropic-economic-index?fbclid=IwY2xjawIX8bpleHRuA2FlbQIxMAABHQqkvz6dG3KFNKnUPstX86oQLmV7MXL0GwvJOarKwBGP57oR2QlEh0UYkw_aem_46lEW_K-Wr5Gp5R3uERrAQ)*, which led to the idea of using AI to create a Dumbbell Chart for data comparison. After experimenting, I found that AI could help easily generate these charts with satisfactory results. I wanted to share this tool with everyone, so you can also create visually appealing data comparisons!
 
 ## How It Works
 
